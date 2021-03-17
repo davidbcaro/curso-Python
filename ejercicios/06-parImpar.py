@@ -1,5 +1,5 @@
-numero1=int(input("Humano inresa un numero par:"))
-numero2=int(input("Humano inresa otro numero par:"))
+numero1=int(input("Ingresa un numero par:"))
+numero2=int(input("Ingresa otro numero par:"))
 numeroPar1=numero1%2
 numeroPar2=numero2%2
 if numeroPar1==0 and numeroPar2==0:
