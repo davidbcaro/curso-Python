@@ -1,5 +1,5 @@
 '''
-Una variable es una palabra que puede almacenar algún tipo de dato y python maneja 3 tipos de datos:
+Una variable es un espacio en memoria que puede almacenar algún tipo de dato:
   Número
   Coma flotante
   Texto
