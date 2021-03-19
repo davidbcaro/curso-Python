@@ -23,8 +23,8 @@ resultado = num1**num2
 print("El exponente es: ",resultado)
 # Operación
 resultado=3**3*(13/5*8)
-r = (13/5*8)
-r = 3**3*20.8
+r1 = ((13/5)*8)
+r2 = 3**3*20.8
 # 3**3*0.325
 # 27*0.325 = 8.75
 
@@ -32,5 +32,6 @@ r = 3**3*20.8
 # 561.6
 
 # 
-print("El resultado es: ",r)
+print("El resultado es: ",r1)
+print("El resultado es: ",r2)
 print("El resultado es: ",resultado)
