@@ -9,7 +9,7 @@ def resta(n1,n2):
 num1=10
 num2=5
 while True:
-    print(f"Humano selecciona que deseas hacer con estos numero {num1} y {num2}:\n\
+    print(f"Selecciona que deseas hacer con estos numero {num1} y {num2}:\n\
 1.-Sumar\n\
 2.-Restar\n\
 3.-Salir")
