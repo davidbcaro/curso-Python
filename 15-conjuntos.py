@@ -1,5 +1,5 @@
 conjuntos=set()
-conjuntos={1,2,3,"Hola","humano",1,2,3}
+conjuntos={1,2,3,"Hola","mundo",1,2,3}
 print(conjuntos)
 #conjuntos.append(5)
 conjuntos.add(5)

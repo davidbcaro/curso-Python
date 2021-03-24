@@ -1,4 +1,4 @@
-tupla=(1,2,3,"Hola","humano")
+tupla=(1,2,3,"Hola","mundo")
 #tupla.append(5)
 #tupla[1]=5
 print(tupla)
