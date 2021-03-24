@@ -13,3 +13,4 @@ lista=list(tupla)
 print(lista)
 tupla2=tuple(lista)
 print(tupla2)
+# Tuplas
