@@ -1,13 +1,13 @@
 #Con do while
+'''
 while True:
-    letra=input("Humano digital la letra 'a':")
-    if letra!='a':
+    letra = input("Usuario digita la letra 'a': ")
+    if letra == 'a':
         break
-print("Humano tonto te dije que precionaras la letra 'a'")
+print("Usuario digitaste una letra diferente a 'a'")
 '''
 #Con while
-letra=input("Humano digital la letra 'a':")
+letra=input("Usuario digita la letra 'a': ")
 while letra=='a':
-    letra=input("Humano digital la letra 'a':")
-print("Humano tonto te dije que precionaras la letra 'a'")
-'''
+    letra=input("Usuario digita la letra 'a': ")
+print("Usuario digitaste una letra diferente a 'a'")

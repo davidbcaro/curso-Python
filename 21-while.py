@@ -1,8 +1,8 @@
-contador=4
+contador = 1
 
-while contador>=0:
+while contador <= 10:
     print("Contador: ", contador)
-    contador-=2
+    contador += 1
 print("Fin del ciclo")
 
 # Ejericio 18
