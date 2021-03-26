@@ -1,7 +1,7 @@
 alumnos={
-    1:["Eugenio","Chaparro"],
-    2:["Maria","Martinez"],
-    3:["Pepe","Fariaz"]
+    1:["Eugenio", "Chaparro"],
+    2:["Maria", "Martinez"],
+    3:["Pepe", "Fernández"]
 }
 '''
 print(alumnos[1])
