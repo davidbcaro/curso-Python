@@ -1,6 +1,6 @@
 '''
 #Parámetro con valor por defecto.
-def parametrosDefecto(n1,n2=20):
+def parametrosDefecto(n1, n2=20):
     print(f"n1={n1} y n2={n2}")
 #parametrosDefecto(10,15)
 parametrosDefecto(10)
