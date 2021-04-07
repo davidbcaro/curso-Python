@@ -1,8 +1,8 @@
 diccionario = {}
 diccionario = {
-    "python":1,
-    "java":2,
-    "javascript":3
+    "Python": 1,
+    "Java": 2,
+    "Javascript": 3
 }
 print(diccionario)
 print('len(diccionario)=', len(diccionario))
