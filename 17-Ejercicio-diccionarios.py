@@ -41,4 +41,4 @@ print(diccionario)
 
 #eliminar por completo
 del diccionario
-print(diccionario)
+#print(diccionario)
