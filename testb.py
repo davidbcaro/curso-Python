@@ -1,8 +1,7 @@
-v = 6
-while v >= 1:
-    if v == 3:
-        print("Conteo: ", v)
-    v -= 1
-    print(v)
-print("Despegar")
-     
+f=open('archivos/archivo.txt',"r")
+while(True):
+    fila = f.readline()
+    print(fila)
+    if not fila:
+        break
+f.close()
