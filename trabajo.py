@@ -1,6 +1,6 @@
 '''
 Trabajo individual
-Presentador por: David Bohorquez Caro
+Presentador por: David Bohorquez
 '''
 
 # Función para contar líneas del archivo 
