@@ -1,7 +1,7 @@
 lista=[]
-a=int(input("Humano ingresa un numero:"))
+a=int(input("Ingresa un numero:"))
 lista.append(a)
-b=int(input("Humano ingresa un numero mayor a 0:"))
+b=int(input("Ingresa un numero mayor a 0:"))
 lista.append(b)
 
 try:
@@ -24,12 +24,12 @@ try:
     res=a/b
 except ZeroDivisionError as ex:
     print(ex)
-    print("Humano tonto b debe ser mayor a 0")
+    print("b debe ser mayor a 0")
 '''
 
 '''
 if b>0:
     res=a/b
 else:
-    print("Humano tonto b debe ser mayor a 0")
+    print("b debe ser mayor a 0")
 '''

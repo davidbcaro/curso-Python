@@ -19,7 +19,7 @@ class Auto:
             self.encendido=True
             print("El auto esta encendido")
         else:
-            print("Humano ratero esa no es la llave")
+            print("Esa no es la llave")
     def acelera(self):
         if self.encendido==True:
             if self.velocidad<self._velocidadMaxima:

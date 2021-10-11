@@ -1,7 +1,7 @@
 def pedirDatos():
     lista=[]
     while True:
-        n=int(input("Humano ingres el numero que quieras (0 para terminar):"))
+        n=int(input("Ingresa el numero que quieras (0 para terminar):"))
         if n==0:
             return lista
         else:
@@ -28,10 +28,10 @@ def burbuja(lista):
     return lista,cont
 def mostrarLista(lista,cont):
     tam=len(lista)
-    print(f"Humano aqui esta tu piche lista ordenada en {cont} ciclos de forma acendente:")
+    print(f"Lista ordenada en {cont} ciclos de forma acendente:")
     for i in range(0,tam):
         print(f"{lista[i]}")
-    print(f"Humano aqui esta tu piche lista ordenada en {cont} ciclos de forma desendente:")
+    print(f"Lista ordenada en {cont} ciclos de forma desendente:")
     for i in range(tam,0,-1):
         print(f"{lista[i-1]}")
 

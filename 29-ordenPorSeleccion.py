@@ -1,7 +1,7 @@
 def insertarNumero():
     lista=[]
     while True:
-        n=int(input("Humano por favor ingresa un numero (0 terminar):"))
+        n=int(input("Por favor ingresa un número (0 terminar):"))
         if n==0:
             return lista
         else:
@@ -23,5 +23,5 @@ def mostrarLista(lista):
 
 lista=insertarNumero()
 ordenPorSeleccion(lista)
-print("Humano aqui estan tus pinches numeros ordenados:")
+print("Números ordenados:")
 mostrarLista(lista)

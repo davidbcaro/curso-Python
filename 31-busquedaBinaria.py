@@ -5,7 +5,7 @@ while True:
     num=humus.pedirNumero(lista)
     encontrado=busquedas.busquedaBinaria(lista,num)
     if encontrado==True:
-        print("Felicidades humano el numero ingresado esta en la lista ahora dame la patita :)")
+        print("Felicidades el número ingresado esta en la lista")
         break
     else:
-        print("Humano tonto el numero no esta en la lista intentalo de nuevo:")
+        print("El número no esta en la lista intentalo de nuevo:")

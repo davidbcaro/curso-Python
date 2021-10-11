@@ -31,7 +31,7 @@ def funcionQueaunNoSeQueVaHacer():
     pass
 funcionQueaunNoSeQueVaHacer()
 '''
-email=input("Humano ingresa un email:")
+email=input("Ingresa un email:")
 i=0
 while i<len(email):
     if email[i]=="@":
